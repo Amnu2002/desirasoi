@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/20170803/pngtree-Food-Menu-Fare-Meal-background-photo-869492.jpg');
+    /* background-image: url('https://images.assetsdelivery.com/compings_v2/mangpor2004/mangpor20041711/mangpor2004171100290.jpg'); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+@media screen and (max-width: 768px){
+    body{
+        background-image: url('https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+  }

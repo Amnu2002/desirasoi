@@ -1,0 +1,8 @@
+.cardStyle{
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 80px;
+    padding: 50px 150px;
+}
